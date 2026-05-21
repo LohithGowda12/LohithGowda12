@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Vishwas R</h1>
+<h1 align="center">Hey there! 👋 I'm Lohith Gowda</h1>
 
 # 💫 About Me:
 🎓 3rd-year CSE student at Don Bosco Institute of Technology<br>💡 Passionate about building intelligent & real-world impactful systems<br>🧾 Portfolio:
