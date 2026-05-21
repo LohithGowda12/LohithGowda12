@@ -3,7 +3,8 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LohithGowda12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LohithGowda12&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=LohithGowda12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
