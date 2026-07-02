@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Lohith Gowda</h1>
-<h4 align="center">💻 Computer Science Engineering Student | 🎓 Don Bosco Institute of Technology, Bengaluru | 🚀 Aspiring DevOps Engineer</h4>
+<h4 align="center">💻 Computer Science Engineering Student | 🎓 Don Bosco Institute of Technology, Bengaluru </h4>
 <p align="center">
-  🌐 Exploring Full Stack Development, DevOps & AI <br>
+  🌐 Exploring Full Stack Development & AI <br>
   🧠 Learning by Building | 🔁 Sharing what I learn
 </p>
 
